@@ -21,8 +21,8 @@ def longest_run(mylist, key):
             count1 += 1
         else:
             count1 = 0
-        if count1 > count 2:
-            count2 = count 1
+        if count1 > count2:
+            count2 = count1
 
     return count2
 
